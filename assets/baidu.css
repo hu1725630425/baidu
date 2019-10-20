@@ -1,0 +1,99 @@
+.wenzi a.pf:hover,.wenzi a.lb:hover,.wenzi a.mnav:hover{
+    color: #3385ff;
+}
+.wenzi a.mnav,.wenzi a.mnav:visited{
+    margin-left: 20px;
+}
+.wenzi{
+    float: right;   font-size: 13px;     font-weight: 700;    margin-top: 20px;
+}
+.wenzi a.lb,.wenzi a.pf,.wenzi a.lb,.wenzi a.pf:link{
+    margin-left: 10px;
+}
+.wenzi a.bri,.wenzi a.bri:visited{
+    text-decoration: none;
+    color: #fff;  
+    background-color: #3385ff;  
+    border:#3385ff 1px solid ;
+    height: 20px;   float: right;    margin: 0 auto;; 
+}
+.wenzi a.lb,.wenzi a.pf,.wenzi a.lb,.wenzi a.pf:visited{
+    font-weight: 10px;
+}
+.wenzi a.pf,.wenzi a.bri,.wenzi a.pf,.wenzi a.bri:visited{
+    margin-left: 20px;
+} 
+img{
+    position: absolute;   left: 600px;   top: 100px;
+}
+input{
+    position: absolute;    top: 220px;    left: 400px;
+}
+input:focus{
+    color: #3385ff;
+}
+a.mnav,a.lb,a.pf:link{
+    color: black;
+}
+a.bri:link{
+    color: white;
+}
+.s_btn{
+    width: 100px;   
+    height: 40px;    
+    color: #fff;   
+     font-size: 15px;     
+    letter-spacing: 1px;
+    background: #3385ff;    
+    border: 1px solid #2d78f4;     
+    float: right;    
+    position: absolute;    left: 1002.5px;     top: 216px;
+}
+.erweima{
+    position: absolute;    top: 200px;     left:80px     
+}
+.wen{
+    font-size: 17px;   
+    font-weight: 4px;    
+    position: absolute;     letter-spacing: 2px;
+    top: 420px;      left: 680px;
+}
+.zi{
+    font-size: 17px;    
+    font-weight: 4px;     
+    color: grey;    
+    position: absolute;   top: 440px;     left: 650px;
+}
+#hu,#min,#hao,#feng:link{
+    color: grey;   
+    font-size: 13px;    
+}
+#hu{
+    position: absolute;    top: 550px;     left: 550px;
+}
+#min{
+    position: absolute;    top: 550px;    left: 670px;
+}
+#hao{
+    position: absolute;   top: 553px;    left: 750px;
+}
+#feng{
+    position: absolute;    top: 550px;    left: 840px;
+}
+#cp{
+    color: grey;    
+    font-size: 13px;     
+    position: absolute;   top: 580px;     left: 500px;
+}
+.cp-m{
+    color: grey;      
+    font-size: 13px;
+}
+.cp-feedback{
+    color: grey;     
+    font-size: 13px;
+}
+#jgwab{
+    color: grey;
+    font-size: 13px; 
+}
